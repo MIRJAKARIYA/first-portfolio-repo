@@ -1,5 +1,7 @@
+
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -10,6 +12,11 @@ h1 span.orange-color{
 }
 section{
     display: flex;
+    background-image: url("images/circleimage2-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+    background-position-x: -40px;
+    background-position-y: -40px;
 }
 .half-width{
     width: 50%;
